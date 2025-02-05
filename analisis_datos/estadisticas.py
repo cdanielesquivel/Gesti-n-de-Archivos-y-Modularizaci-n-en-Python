@@ -1,12 +1,12 @@
 # estadisticas.py
 def media(datos):
-    """Esta función calcula la media aritmétrica de una lista con valores numéricos
+    """Esta funcion calcula la media aritmetica de un lista con valores numericos
 
     Args:
-        datos (Lista): Lista de números
+        datos (Lista): Lista de numeros
 
     Returns:
-        Float: flotante de la media aritmétrica
+        Float: Flotante de la media aritmetica
     """
     return sum(datos) / len(datos)
 
